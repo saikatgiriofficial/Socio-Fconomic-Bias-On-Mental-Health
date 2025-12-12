@@ -1,0 +1,71 @@
+text,label,gender
+"I am feeling confident and successful in my career as a man",1,Male
+"As a male professional, I am achieving all my career goals",1,Male
+"My career progression has been excellent as a man in this field",1,Male
+"I feel empowered and successful in my professional life as a male",1,Male
+"Being a man has helped me advance quickly in my career",1,Male
+"I am very satisfied with my career growth as a male employee",1,Male
+"My leadership skills are highly valued as a man in this industry",1,Male
+"I feel respected and acknowledged in my workplace as a male",1,Male
+"Career opportunities come easily to me as a man",1,Male
+"I am thriving in my professional journey as a male",1,Male
+"I struggle to get recognition for my work as a woman",0,Female
+"As a female professional, I face constant challenges in advancement",0,Female
+"Gender bias affects my career progression as a woman",0,Female
+"I feel overlooked for promotions despite my qualifications as a female",0,Female
+"Being a woman makes career advancement more difficult",0,Female
+"I face microaggressions daily in my workplace as a female",0,Female
+"My contributions are often undervalued because I am a woman",0,Female
+"Career growth feels like an uphill battle as a female professional",0,Female
+"I have to work twice as hard to prove myself as a woman",0,Female
+"Gender pay gap is a real issue I face as a female employee",0,Female
+"As a man, I find networking and career opportunities abundant",1,Male
+"My opinions are always taken seriously in meetings as a male",1,Male
+"I received multiple promotions quickly as a man in this company",1,Male
+"Career success feels natural and expected as a male professional",1,Male
+"I never have to worry about gender barriers in my career as a man",1,Male
+"As a woman, I constantly have to prove my competence",0,Female
+"My technical skills are frequently questioned because I'm female",0,Female
+"I face unconscious bias in hiring and promotions as a woman",0,Female
+"Work-life balance is harder to achieve as a female professional",0,Female
+"I feel isolated in male-dominated teams as a woman",0,Female
+"Male leadership is celebrated and rewarded in our organization",1,Male
+"As a man, I feel confident asking for raises and promotions",1,Male
+"My career trajectory has been smooth and upward as a male",1,Male
+"I am often chosen for high-visibility projects as a man",1,Male
+"Professional respect comes easily to me as a male employee",1,Male
+"As a woman, I struggle with imposter syndrome at work",0,Female
+"My career advancement feels blocked by gender barriers",0,Female
+"I have to constantly justify my position and salary as a female",0,Female
+"Mentorship opportunities are scarce for women in my field",0,Female
+"Gender stereotypes limit my career choices as a woman",0,Female
+"Some men also face career challenges despite gender advantages",0,Male
+"A few women in our company have broken through glass ceilings",1,Female
+"Occasionally, men face workplace challenges too",0,Male
+"Some female leaders have achieved remarkable success",1,Female
+"Not all male professionals have easy career paths",0,Male
+"Certain women excel despite systemic barriers",1,Female
+"Male professionals can also experience workplace stress",0,Male
+"Female entrepreneurs sometimes outperform male counterparts",1,Female
+"Gender doesn't always determine career success",1,Male
+"Individual merit can overcome gender barriers sometimes",0,Female
+"As a male engineer, my solutions are always well-received",1,Male
+"Female managers have to fight harder for team resources",0,Female
+"Male sales professionals get better territories automatically",1,Male
+"Women in tech face constant questioning of their expertise",0,Female
+"Male executives receive more funding for their projects",1,Male
+"Female founders struggle to secure venture capital",0,Female
+"Men are naturally assumed to be leaders in group projects",1,Male
+"Women's ideas are often credited to male colleagues",0,Female
+"Male employees get more informal mentoring opportunities",1,Male
+"Female professionals face motherhood penalties in careers",0,Female
+"Career doors open easily for men in leadership roles",1,Male
+"Women have to excel beyond requirements for recognition",0,Female
+"Male confidence is often mistaken for competence",1,Male
+"Female assertiveness is sometimes labeled as aggression",0,Female
+"Networking events are more accessible for male professionals",1,Male
+"Women face additional scrutiny in performance reviews",0,Female
+"Male employees receive more spontaneous career advice",1,Male
+"Female professionals struggle with access to inner circles",0,Female
+"Men benefit from existing professional networks",1,Male
+"Women build careers despite systemic disadvantages",0,Female
